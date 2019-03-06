@@ -4,8 +4,8 @@ public class Myjavaprogram {
 
 	public static void main(String[] args)
 	{
-	System.out.println("welcome to");	
-System.out.println("hello world");
+	System.out.print("welcome"+"to");	
+System.out.print("hello world");
 
 	}
 
